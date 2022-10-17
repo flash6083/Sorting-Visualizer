@@ -215,7 +215,7 @@ btn2.grid(row=4, column=0, padx=5, pady=5)
 
 canvas = Canvas(root, width=800, height=400, bg="white")
 canvas.grid(row=1, column=0, padx=10, pady=5)
-
+print("Hello")
 
 root.mainloop()
 
